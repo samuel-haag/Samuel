@@ -1,0 +1,62 @@
+#cabecalho{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    }
+.container{
+        display: flex;
+        width: 1500px;
+        margin: auto;
+        flex-wrap: wrap;
+        
+}
+.box1{
+    width: 300px;
+    height: 300px; 
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+.box2{
+    width: 300px;
+    height: 300px; 
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+.box3{
+    width: 300px;
+    height: 300px; 
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+.box4{
+    width: 300px;
+    height: 300px; 
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    }
+.box5{
+    width: 300px;
+    height: 300px; 
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}

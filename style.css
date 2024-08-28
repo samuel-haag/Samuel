@@ -1,0 +1,149 @@
+    /*Formatação por seletor*/
+
+    h1{
+        color:red;
+        font-size: 40px;
+     }
+    .divs{
+        color:rgb(204, 209, 209);
+        font-size: 40px;
+        text-align: center;
+
+    }
+
+    /*p{
+        color:rgb(10, 176, 206);
+        font-size: 25px;
+    }*/
+    /*Formatação por classe*/
+    .paragrafo1{
+        color:rgb(47, 13, 238);
+        font-size: 25px;
+    }
+    .paragrafo2{
+        background-color:rgb(160, 114, 202);
+        height: 60px;
+    }
+    .paragrafo3{
+        background-color:rgba(16, 163, 231, 0.699);
+        color: aliceblue;
+
+    
+
+
+
+
+
+
+        /*
+        border: Aplica a borda em volta do elemento
+        solid, dashed, dotted
+
+        */
+        border:3px solid black;
+    }
+    .mensagem{
+        color:rgb(255, 0, 0);
+        font-size: 50px;
+    }
+    /*Formatação por ID*/
+    #cabecalho{
+        font-size: 35px;
+        color: rgb(11, 90, 1);
+        text-align: center; 
+    }
+    #rodape{
+        color:rgb(255, 253, 254);
+        text-align: center;
+    }
+    #pagina{
+        background-color: rgb(231, 172, 172);
+     }
+
+     .container{
+        /* display:flex - Serve para flexionar os itens */
+      display:flex;
+      /* flex-wrap: nowrap - Serva para não ter quebra de linha
+         flex-wrap: wrap - Serve para fazer a quebra*/
+      /* flex-wrap: nowrap; */
+        flex-wrap:wrap;
+        border: 1px solid red;
+        width: 800px;
+        margin: auto;
+    }
+    .box1{
+        background-color: rgb(222, 180, 111);
+        width: 100px;
+        height: 200px;
+    }
+    .box2{
+        background-color: rgb(137, 251, 255);
+        width: 200px;
+        height: 200px;
+    }
+    .box3{
+        background-color: rgb(42, 225, 115);
+        width: 200px;
+        height: 200px;
+    }
+    .box4{
+        background-color: rgb(137, 251, 255);
+        width: 200px;
+        height: 200px;
+    }
+    
+    
+    .container2{
+        display: flex;
+        width: 800px;
+        margin: auto;
+}
+    .box10{
+        background-color: rgb(222, 180, 111);
+        width: 200px;
+        height: 200px;
+        margin-left: 10px;
+        padding: 10px;
+        box-sizing: border-box;
+        
+        /*padding-top: 25px;
+        padding-right: 30px;
+        padding-bottom: 10px;
+        padding-left: 15px;*/
+}
+    .box11{
+        background-color: rgb(137, 251, 255);
+        width: 200px;
+        height: 200px;
+        margin-left: 10px;
+        padding: 15px;
+        box-sizing: border-box;
+}
+    .box12{
+        background-color: rgb(42, 225, 115);
+        width: 200px;
+        height: 200px;
+        margin-left: 10px;
+        padding: 15px;
+        box-sizing: border-box;
+}
+    .box13{
+        background-color: rgb(137, 251, 255);
+        width: 200px;
+        height: 200px;
+        margin-left: 10px;
+        padding: px;
+        box-sizing: border-box;
+        /*
+         20px - Superior
+         15px - Lado direito
+         25px - Inferior
+         30px - Lado esquerdo
+         */
+}
+    .titulodiv{
+        text-align: center;
+        
+    
+    
+    }
